@@ -1,7 +1,7 @@
 # Kyanon-Entrance-test
 ### Tính năng của API
-**API 1 / SIGN-UP**: API cho phép người dùng mới sign-up vào hệ thống. 
-**API 2 / SIGN-IN**: API cho phép người dùng (đã có trong hệ thống) sign-in vào hệ thống. 
+1. **API 1 / SIGN-UP**: API cho phép người dùng mới sign-up vào hệ thống mật khẩu sẽ được mã hóa thành các token. 
+2. **API 2 / SIGN-IN**: API cho phép người dùng (đã có trong hệ thống) sign-in vào hệ thống. 
 
 **1. Cài đặt Django**
 ```python
